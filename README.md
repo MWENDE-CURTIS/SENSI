@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Status: MVP (Minimum Viable Product)
+##  Project Status: MVP (Minimum Viable Product)
 
 This is the first working prototype of SENSI, showcasing core functionalities including:
 * Obstacle detection via ultrasonic sensors
@@ -14,19 +14,19 @@ This is the first working prototype of SENSI, showcasing core functionalities in
 
 ---
 
-## 💡 Core Features
+##  Core Features
 
 | Feature                 | Description                                                                 |
 | :---------------------- | :-------------------------------------------------------------------------- |
-| 🔊 Sound Detection      | Recognizes critical sounds (horns, sirens) and alerts the user via vibration |
-| 🛑 Obstacle Detection   | Ultrasonic sensors detect nearby objects and trigger warning vibrations     |
-| 📱 Mobile Integration   | Pairs with smartphone GPS for directional feedback                          |
-| 🌐 Custom Feedback Patterns | Vibrations vary by alert type to allow non-verbal recognition               |
-| 🔋 Power Efficient      | Optimized for low-power operation with rechargeable battery                 |
+|  Sound Detection      | Recognizes critical sounds (horns, sirens) and alerts the user via vibration |
+|  Obstacle Detection   | Ultrasonic sensors detect nearby objects and trigger warning vibrations     |
+|  Mobile Integration   | Pairs with smartphone GPS for directional feedback                          |
+|  Custom Feedback Patterns | Vibrations vary by alert type to allow non-verbal recognition               |
+|  Power Efficient      | Optimized for low-power operation with rechargeable battery                 |
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 * **Hardware**: Arduino Nano / ESP32, Ultrasonic sensor (HC-SR04), Microphone module, Vibration motor, Bluetooth module (e.g., HC-05), Rechargeable Li-Po battery
 * **Software**:
@@ -45,7 +45,7 @@ This is the first working prototype of SENSI, showcasing core functionalities in
 
 ---
 
-## 📦 Installation & Setup (MVP)
+##  Installation & Setup (MVP)
 
 1.  **Clone the repository:**
     ```bash
@@ -62,7 +62,7 @@ This is the first working prototype of SENSI, showcasing core functionalities in
 
 ---
 
-### 🧪 Testing & Limitations
+###  Testing & Limitations
 
 * **Obstacle Detection Range:** Current prototype range is approximately 1.5 meters.
 * **Sound Classification:** Limited to a small, predefined set of sounds within the MVP scope.
@@ -70,7 +70,7 @@ This is the first working prototype of SENSI, showcasing core functionalities in
 
 ---
 
-## 📈 Roadmap
+##  Roadmap
 
 * Expand sound classification capabilities using AI/ML (Edge computing).
 * Refine haptic "language" for more nuanced and complex alerts.
@@ -79,7 +79,7 @@ This is the first working prototype of SENSI, showcasing core functionalities in
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, bug reports, and feedback are welcome!
 1.  Fork the repository.
@@ -90,13 +90,13 @@ Contributions, bug reports, and feedback are welcome!
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * Assistive tech pioneers for their inspiring work.
 * Open-source communities supporting accessibility innovation.
